@@ -1,0 +1,93 @@
+Mi a JavaScript?
+a) Egy adatbázis-kezelő rendszer
+b) Egy szerveroldali programozási nyelv
+c) Egy böngésző alapú programozási nyelv
+d) Egy operációs rendszer
+
+Helyes válasz: c) Egy böngésző alapú programozási nyelv
+
+Melyik kulcsszót használjuk a változó deklarálásához a JavaScriptben?
+a) var
+b) let
+c) const
+d) variable
+
+Helyes válasz: b) let
+
+Mi a DOM rövidítése a JavaScriptben?
+a) Document Object Model
+b) Display Order Method
+c) Dynamic Operation Module
+d) Data Oriented Model
+
+Helyes válasz: a) Document Object Model
+
+Melyik függvényt használjuk az elem kiválasztásához a DOM-ban?
+a) selectElement()
+b) getElementById()
+c) chooseElement()
+d) findElement()
+
+Helyes válasz: b) getElementById()
+
+Melyik ciklust használhatjuk az elemek bejárásához egy tömbben JavaScriptben?
+a) loop
+b) for-in ciklus
+c) foreach ciklus
+d) for ciklus
+
+Helyes válasz: d) for ciklus
+
+Melyik eseményt váltja ki, amikor egy HTML elem felett elhúzzuk az egeret?
+a) click
+b) hover
+c) mouseover
+d) move
+
+Helyes válasz: c) mouseover
+
+Hogyan lehet külső JavaScript fájlt csatolni egy HTML dokumentumba?
+a) <js src="script.js">
+b) <script type="javascript" src="script.js">
+c) <script src="script.js"></script>
+d) <javascript src="script.js"></javascript>
+
+Helyes válasz: c) <script src="script.js"></script>
+
+Melyik metódust használjuk a karakterlánc hosszának meghatározásához JavaScriptben?
+a) .lengthOf()
+b) .size()
+c) .length()
+d) .count()
+
+Helyes válasz: c) .length()
+
+Mi a callback-függvény a JavaScriptben?
+a) Egy függvény, amely a program elindításakor mindig lefut
+b) Egy függvény, amely azonnal visszatér az eredménnyel
+c) Egy függvény, amely egy másik függvény argumentumaként kerül átadásra és később hívódik meg
+d) Egy függvény, amely hozzáférést biztosít a böngésző belső API-jaihoz
+
+Helyes válasz: c) Egy függvény, amely egy másik függvény argumentumaként kerül átadásra és később hívódik meg
+
+Hogyan lehet hibakezelést végezni JavaScriptben?
+a) try/except blokkokkal
+b) if/else utasításokkal
+c) catch/throw struktúrákkal
+d) error() függvény meghívásával
+
+Helyes válasz: a) try/except blokkokkal
+
+
+
+
+
+
+
+
+
+
+
+
+
+

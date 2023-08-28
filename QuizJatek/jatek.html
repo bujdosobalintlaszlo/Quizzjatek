@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript quizz</title>
+    <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
+    <link rel="stylesheet" href="alap.css">
+    <link rel="stylesheet" href="jatek.css">
+</head>
+<body>
+    <div class="container">
+        <div id="game" class="justify-center flex-column">
+            <div id="hud">
+                <div class="item">
+                    <p id="progress" class="hud-prefix">
+                        Kérdés
+                    </p>
+                    <div id="progressbar">
+                        <div id="progressbarfull">
+
+                        </div>
+                    </div>  
+                </div>
+                <div class="item">
+                    <p class="hud-prefix">
+                        Eredmény
+                    </p>
+                    <h1 class="hud-main-text" id="score">
+                        0
+                    </h1>
+                </div>
+            </div>
+            <!--Az elso kerdes kezdete-->
+            <h1 id="kerdes">Mi a JavaScript?</h1>
+            <div class="choice-container">
+                <p class="choice-prefix">A,</p>
+                <p class="choice-text" data-number="1">Egy adatbázis-kezelő rendszer</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">B,</p>
+                <p class="choice-text" data-number="2">Egy szerveroldali programozási nyelv</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">C,</p>
+                <p class="choice-text" data-number="3">Egy böngésző alapú programozási nyelv</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">D,</p>
+                <p class="choice-text" data-number="4">Egy operációs rendszer</p>
+            </div>
+            <!--Elso kerdes vege-->
+        </div>
+    </div>
+    <script src="jatek.js"></script>
+</body>
+</html>
